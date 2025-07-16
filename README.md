@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hello! I'm Muhammad Farhan
 
-<!--
-**Muhammad-Farhan1/Muhammad-Farhan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Python developer and machine learning enthusiast from Pakistan.
+I’ve completed core Python, NumPy, and Pandas — and I'm now on a mission to build real projects and learn AI step by step. 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 What I'm Learning
+
+- ✅ Python Programming
+- ✅ NumPy
+- ✅ Pandas
+- 🔄 Matplotlib & Seaborn (Next)
+- 🔜 Machine Learning (scikit-learn)
+- 
+---
+## 🧠 My Goal
+To become an **AI/ML expert** by mastering the complete data science pipeline — from raw data to predictions.
+I'm currently working on building mini-projects and sharing them here.
+---
+
+## 📁 Repositories So Far
+I’m just getting started — here are my first few repositories. More coming soon!
+
+- 📊 `Python-Projects` – Small Python practice scripts and programs
+- 📚 `NumPy-Practice` – Hands-on with NumPy arrays and math
+- 🐼 `Pandas-Learning` – All Pandas examples and concepts I'm mastering
+---
+
+## 🚀 What's Next
+
+I'm currently preparing some beginner-friendly data projects that will combine:
+- Python 🐍
+- NumPy ➕ Pandas
+- Matplotlib 📊
+- Real CSV/Excel data
+These projects will be uploaded soon as part of my learning journey. Stay tuned!
+---
+
+## 📫 Contact Me
+
+- 💬 Ask me anything: [GitHub Discussions](https://github.com/Muhammad-Farhan1)
+- 📧 Email: iamfarhan512@gmail.com
+---
+
