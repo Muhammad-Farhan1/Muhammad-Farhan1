@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Muhammad Farhan
 
-I'm an aspiring Python developer and machine learning enthusiast from Pakistan.  
-I’ve completed Core Python, NumPy, Pandas, and Matplotlib — and I’m now on a mission to build real projects and learn AI step by step. 🚀
+I'm an aspiring **AI/ML Engineer** from Pakistan.  
+I’ve completed **Core Python, NumPy, Pandas, Matplotlib, Seaborn, SQL, and Excel**, along with foundational **Statistics** — and I’m now building real-world projects while learning AI step by step. 🚀
 
 ---
 
@@ -11,36 +11,51 @@ I’ve completed Core Python, NumPy, Pandas, and Matplotlib — and I’m now on
 - ✅ NumPy  
 - ✅ Pandas  
 - ✅ Matplotlib  
-- 🔄 Seaborn (Next)  
-- 🔜 Machine Learning (scikit-learn)  
+- ✅ Seaborn  
+- ✅ SQL  
+- ✅ Excel  
+- ✅ Statistics (Basics + Probability)  
+- 🔄 Machine Learning (Next: scikit-learn, supervised & unsupervised learning)  
+- 🔜 Deep Learning (PyTorch & TensorFlow)  
 
 ---
 
 ## 🧠 My Goal
 
-To become an **AI/ML expert** by mastering the complete data science pipeline — from raw data to real predictions.  
-I'm currently building mini-projects and documenting everything here on GitHub.
+To become an **AI/ML Expert** by mastering the complete data science pipeline — from raw data to real-world predictions and AI models.  
+I’m documenting **every step** of my learning journey here on GitHub with projects, notes, and practice files.
 
 ---
 
-## 📁 Repositories So Far
+## 📁 My Repositories
 
-I’m just getting started — here are my first few learning-focused repositories:
-
-- 📊 `Python-Projects` – Small Python practice scripts and programs  
-- 📚 `NumPy-Practice` – Hands-on with NumPy arrays and math  
-- 🐼 `Pandas-Learning` – All Pandas examples and concepts I'm mastering  
-- 📈 `Matplotlib-Practice` – Practiced all major Matplotlib plots with customizations  
+- 📊 **Python-Projects** – Python practice scripts and programs  
+- 📚 **NumPy-Practice** – NumPy arrays, operations, and performance tricks  
+- 🐼 **Pandas-Learning** – All Pandas examples, cleaning, and transformations  
+- 📈 **Matplotlib-Practice** – Visualizations, charts, and custom styling  
+- 🎨 **Seaborn-Practice** – Advanced statistical visualizations  
+- 🗄 **SQL-Projects** – Real-world SQL queries and database projects  
+- 📊 **Excel-Dashboards** – Interactive Excel reports and visualizations  
 
 ---
 
-## 🚀 What's Next
+## 🚀 Projects Completed So Far
 
-Beginner-friendly projects I’ve completed so far:
+- 📊 **Numpy_Pandas_Projects** – Real projects using NumPy and Pandas  
+- 🏠 **House Price Analysis** – Data cleaning, analysis, and visualizations  
+- 🎓 **Student Performance Dashboard** – Analysis with Pandas, SQL, and visualization tools  
+- 🛍 **Store Sales Analysis** – Sales trends, customer behavior, and product performance insights  
+- ✈ **Flight Price Prediction** – Data preprocessing and ML model training (In Progress)  
+- 🚢 **Titanic Survival Analysis** – Exploratory data analysis with Pandas & Seaborn  
 
-- 📊 `Numpy_Pandas_Projects` – Real projects using NumPy and Pandas  
+---
 
-More projects using **Seaborn, scikit-learn, and real datasets** will be uploaded soon. Stay tuned!
+## 📅 My Learning Roadmap
+
+1. **Finish Machine Learning** (scikit-learn)  
+2. **Work on 10+ Real-World ML Projects**  
+3. **Learn Deep Learning (PyTorch & TensorFlow)**  
+4. **Build AI Models & Deploy Applications**  
 
 ---
 
@@ -48,4 +63,3 @@ More projects using **Seaborn, scikit-learn, and real datasets** will be uploade
 
 - 💬 Ask me anything: [GitHub Discussions](https://github.com/Muhammad-Farhan1)  
 - 📧 Email: iamfarhan512@gmail.com  
----
