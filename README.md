@@ -33,10 +33,7 @@ I aim to build **real-world AI/ML projects**, share them openly, and grow step b
 - 🐍 **Python-Projects** – Practice scripts & mini Python projects  
 - 📚 **NumPy-Practice** – Arrays, operations, and performance tricks  
 - 🐼 **Pandas-Learning** – Cleaning, transformation, and real analysis  
-- 📊 **Matplotlib-Practice** – Data visualization basics & advanced charts  
-- 🎨 **Seaborn-Practice** – Statistical plots and visualizations  
-- 🗄 **SQL-Projects** – Real-world SQL queries and databases  
-- 📊 **Excel-Dashboards** – Interactive reports & visualizations  
+- 📊 **Matplotlib-Practice** – Data visualization basics & advanced charts   
 
 ---
 
