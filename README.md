@@ -1,34 +1,28 @@
+<h3 align="center">A passionate AI/ML Engineer From Pakistan</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-farhan1&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-farhan1" /> </p>
 
-👋 Hello! I'm Muhammad Farhan
-I’m an aspiring AI/ML Engineer from 🇵🇰 Pakistan, passionate about transforming data into intelligent, real-world solutions.
-Currently, I’m learning Machine Learning step by step and documenting my entire journey through projects, notes, and practice repositories here on GitHub.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-farhan1" alt="muhammad-farhan1" /></a> </p>
 
-🚀 Current Learning Path
-📘 Machine Learning – Hands-on learning with real-world datasets and model-building practice
+- 🔭 I’m currently working on **Machine Learning Projects**
 
-💡 Mathematics & Statistics for ML – Deep dive into probability, distributions, and hypothesis testing
+- 🌱 I’m currently learning **Scikit-Learn**
 
-🧠 AI Concepts – Gradual transition toward deep learning and NLP after mastering ML fundamentals
+- 👨‍💻 All of my projects are available at [https://github.com/Muhammad-Farhan1](https://github.com/Muhammad-Farhan1)
 
-📊 My Current Progress
-✅ Core Python – OOP, Functions, File Handling, APIs, Multithreading
+- 📫 How to reach me **iamfarhan512@gmail.com**
 
-✅ NumPy – Arrays, Broadcasting, Vectorization, Performance Optimization
+- ⚡ Fun fact **I am Hard Working Boy**
 
-✅ Pandas – Data Cleaning, Merging, Grouping, Aggregation, Analysis
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-✅ Matplotlib & Seaborn – Statistical Visualizations, Custom Styling
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-✅ SQL – Queries, Joins, Aggregations, Real-World Projects
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-farhan1&show_icons=true&locale=en&layout=compact" alt="muhammad-farhan1" /></p>
 
-✅ Excel – Dashboards, Pivot Tables, Reports
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-farhan1&show_icons=true&locale=en" alt="muhammad-farhan1" /></p>
 
-✅ Statistics – Central Tendency, Spread, Probability, Outliers, 5-Number Summary
-
-📂 What You’ll Find Here
-🧩 Mini Projects – Data cleaning, visualization, and analysis tasks
-
-📘 Study Notes – Summarized learnings and key takeaways
-
-💻 Practice Repositories – Step-by-step problem-solving and concept implementation
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-farhan1&" alt="muhammad-farhan1" /></p>
