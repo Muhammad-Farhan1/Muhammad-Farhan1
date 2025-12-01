@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Machine Learning Projects**
 
-- 🌱 I’m currently learning **Scikit-Learn**
+- 🌱 I’m currently learning **Tensorflow**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muhammad-Farhan1](https://github.com/Muhammad-Farhan1)
 
