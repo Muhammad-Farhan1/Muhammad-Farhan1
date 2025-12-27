@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **iamfarhan512@gmail.com**
 
-- ⚡ Fun fact **I am Hard Working Boy**
+- ⚡ Fun fact **I am a Hard Working Boy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
