@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Farhan</h1>
 <h3 align="center">A passionate AI/ML Engineer From Pakistan</h3>
 
-- 🔭 I’m currently working on **Machine Learning Projects**
+- 🔭 I’m currently working on **Deep Learning Projects**
 
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning **Pytorch For DL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muhammad-Farhan1](https://github.com/Muhammad-Farhan1)
 
