@@ -3,7 +3,7 @@
 
 - 🔭 I am currently working on **Deep Learning Projects**
 
-- 🌱 I’m currently learning **Pytorch For DL**
+- 🌱 I’m currently learning **Natural Language Processing (NLP)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muhammad-Farhan1](https://github.com/Muhammad-Farhan1)
 
