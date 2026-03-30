@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Muhammad Farhan</h1>
 <h3 align="center">A passionate AI/ML Engineer From Pakistan</h3>
 
-- 🔭 I am currently working on **Deep Learning Projects**
+- 🔭 I am currently working on **DL Projects**
 
 - 🌱 I’m currently learning **Natural Language Processing (NLP)**
 
