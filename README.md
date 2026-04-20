@@ -24,38 +24,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div style="display:grid; gap:10px;">
-
-### 🧾 Sentiment Analysis (IMDB 50K)
-✔ NLP pipeline (cleaning → vectorization → model training)  
-✔ Word2Vec / GloVe experiments  
-✔ Accuracy optimized
-
----
-
-### 📉 Customer Churn Prediction
-✔ ANN-based deep learning model  
-✔ Business-driven insights  
-
----
-
-### 🏠 House Price Prediction
-✔ Regression model with feature engineering  
-
----
-
-### 🚗 Car Price Prediction
-✔ End-to-end ML pipeline  
-
----
-
-### 📊 Stock Price Prediction (LSTM)
-✔ Time-series forecasting using Deep Learning  
-
-</div>
-
 ---
 
 ## 🛠 Tech Stack
