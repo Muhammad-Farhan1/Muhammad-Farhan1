@@ -61,18 +61,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Farhan1&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Farhan1&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
