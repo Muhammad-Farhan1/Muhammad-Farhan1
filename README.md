@@ -16,7 +16,7 @@
 
 - 🔭 Working on **Deep Learning & NLP Projects**
 - 🌱 Learning **SpaCy, NLTK, Transformers**
-- 🎯 Goal: Become a **Production-ready AI Engineer**
+- 🎯 Goal: Become a **Production-ready AI/ML Engineer**
 - 💡 Passion: Building real-world AI systems
 - ⚡ Fun fact: I turn ☕ into models that predict the future
 
