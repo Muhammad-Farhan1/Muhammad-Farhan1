@@ -85,7 +85,7 @@
 
 <div style="background:#161b22; padding:15px; border-radius:10px;">
 
-✔ NLP (Word2Vec → GloVe → Transformers)  
+✔ NLP (Transformers)  
 ✔ Real-world ML projects  
 ✔ Model deployment basics  
 ✔ Research-level understanding of embeddings  
